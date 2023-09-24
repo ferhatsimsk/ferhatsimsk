@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Metaverse Project and PC Game Project**
 
-- 🌱 I’m currently learning **.NET Core 5**
+- 🌱 I’m currently learning **Writing clean code and .NET Core 5**
 
 - 💬 Ask me about **game and metaverse**
 
