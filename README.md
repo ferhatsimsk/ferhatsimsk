@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ferhat Simsek</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Metaverse Project**
+- 🔭 I’m currently working on **Metaverse Project and PC Game Project**
 
 - 🌱 I’m currently learning **.NET Core 5**
 
