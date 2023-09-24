@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatsimsk&" alt="ferhatsimsk" /></p>
 
-![snake gif](https://github.com/ferhatsimsk/ferhatsimsk/blob/output/github-contribution-grid-snake.gif)
+
